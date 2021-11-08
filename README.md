@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/four-card-feature-section-using-clean-html-and-css-I35nX0-Yf)
-- [Live Site URL](https://mohsin316.github.io/Four-card-feature-section/)
+- [Solution URL](https://www.frontendmentor.io/solutions/accordian-using-clean-html-css-and-js-with-smooth-transitions-Yf2Bn_Dl2)
+- [Live Site URL](https://mohsin316.github.io/FAQ-Accordion-card/)
 
 ## My process
 
